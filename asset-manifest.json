@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Roman-Lviv/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/Roman-Lviv/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "index.html": "/Roman-Lviv/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/Roman-Lviv/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Roman-Lviv/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
